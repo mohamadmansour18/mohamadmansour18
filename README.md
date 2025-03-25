@@ -6,16 +6,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohamadmansour18/mohamadmansour18/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohamadmansour18/mohamadmansour18/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mohamadmansour18/mohamadmansour18/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<br clear="both">
-
 <h2 align="left">◈ Education 📕</h2>
 
 ###
@@ -102,6 +92,10 @@
 
 ###
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadmansour18&layout=compact)
+
+###
+
 <h2 align="left">◈ My profiles 📌</h2>
 
 ###
@@ -121,3 +115,4 @@
 </div>
 
 ###
+
