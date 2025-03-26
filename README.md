@@ -1,4 +1,8 @@
-<h2 align="left">Hey There I'm Mohammed Mansour👋</h2>
+<h1 align="left">Hey There I'm Mohammed Mansour👋</h1>
+
+###
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=oleo+script&size=29&duration=4000&pause=1000&color=F74034&width=435&lines=Software+Engineer;UI%2FUX+designer;I+always+keep+learning+new+things)](https://git.io/typing-svg)
 
 ###
 
@@ -88,7 +92,15 @@
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
   <img width="13" />
   <img src="https://skillicons.dev/icons?i=gitlab" height="30" alt="gitlab logo"  />
+  <img width="13" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/>
+  <img width="13" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/>
 </div>
+
+###
+
+<h4 align="left">›› Most Used Language</h4>
 
 ###
 
@@ -96,9 +108,46 @@
 
 ###
 
+<h2 align="left">◈ Profile Statistics 🎯</h2>
+
+###
+
+<h3 align="left">›› General statistics</h3>
+
+###
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamadmansour18&show_icons=true&theme=dark)
+
+###
+
+<h3 align="left">›› Streak Stats</h3>
+
+###
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=mohamadmansour18&theme=dark&border_radius=5)](https://git.io/streak-stats)
+
+###
+
+<h3 align="left">›› Activity Github Graph</h3>
+
+###
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohamadmansour18&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+###
+
+<h2 align="left">◈ Profile Trophies 👑</h2>
+
+###
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mohamadmansour18&theme=oldie)](https://github.com/ryo-ma/github-profile-trophy)
+
+###
+
 <h2 align="left">◈ My profiles 📌</h2>
 
 ###
+
 
 <div align="left">
   <a href="mailto:360mohamad360@gmail.com" target="_blank">
