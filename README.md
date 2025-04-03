@@ -6,6 +6,10 @@
 
 ###
 
+![Custom Size – 1](https://github.com/user-attachments/assets/494fd802-360f-497e-ad83-5da7220c895f)
+
+###
+
 <p align="left">- I am a motivated and ambitious university student pursuing a degree in Information Engineering. My passion for continuous learning drives me to expand my knowledge through reading, online courses, and active participation in events and competitions related to my field.<br><br>- I specialize in back-end development, programming, and problem-solving, allowing me to work on diverse projects both academically and professionally. I am experienced in building efficient and scalable solutions that align with user and business requirements.<br><br>- Beyond technical development, I also engage in UI/UX design, focusing on crafting user-centric experiences that enhance usability. My ability to integrate technical functionality with intuitive design enables me to deliver well-rounded solutions.<br><br>- Throughout my academic journey, I have completed multiple projects that have deepened my expertise in software development. These experiences have strengthened my technical skills while also improving my teamwork, collaboration, and time management abilities.</p>
 
 ###
